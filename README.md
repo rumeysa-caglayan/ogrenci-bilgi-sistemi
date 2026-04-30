@@ -6,7 +6,7 @@ Bu proje, PHP ve MySQL kullanılarak geliştirilmiş basit bir öğrenci yöneti
 - Öğrenci ekleme
 - Öğrenci silme
 - Öğrenci güncelleme
-- Öğrenci listeleme
+- Öğrenci listeleme 
 - Veritabanı bağlantısı
 
 ## 🛠️ Kullanılan Teknolojiler
